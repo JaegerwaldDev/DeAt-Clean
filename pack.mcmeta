@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 32,
+        "description": "Changes Austrian to be accentless. (Deutsch, Deitsch)"
+    },
+    "language": {
+        "de_at_cl": {
+            "name": "§6!!! §fDeutsch",
+            "region": "Österreich",
+            "bidirectional": false
+        }
+    }
+}
